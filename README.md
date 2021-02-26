@@ -55,4 +55,4 @@ ________
 - User should be able to create a new article using the form and see it displayed on the webpage without having to refresh the page. If the user refreshes the page, the article they created should still be shown on the page (it should persist).
 - User should be able to click on the delete button to delete an article. This change should persist.
 - User should be able to hit the like button and see the likes number for that article increase by 1. The update should persist.
-
+- User should not see any ads.
