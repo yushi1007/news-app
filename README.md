@@ -49,6 +49,7 @@ ________
             </div>
             <p class="react-count">{article likes} likes</p>
             <button class="like-button">♥️ Like</button>
+            <button class="delete-button">X</button>
         </div>
     </div>
 ```
